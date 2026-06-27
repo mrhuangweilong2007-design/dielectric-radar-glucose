@@ -1,4 +1,4 @@
-# 📡 Dielectric Radar: Non-Invasive Glucose Monitoring
+#  Dielectric Radar: Non-Invasive Glucose Monitoring
 
 > **Revolutionizing diabetes care through computational bio-electromagnetics**
 
@@ -8,13 +8,13 @@
 
 ---
 
-## 🎯 Project Vision
+##  Project Vision
 
 Diabetes affects over **537 million adults worldwide**. Current glucose monitoring methods require invasive blood draws, causing discomfort and limiting frequent monitoring. This project explores a **groundbreaking alternative**: using millimeter-wave radar to detect blood glucose levels **non-invasively** by analyzing the dielectric properties of blood.
 
 ---
 
-## 🔬 Scientific Foundation
+##  Scientific Foundation
 
 ### The Physics Behind It
 
@@ -31,15 +31,15 @@ Our simulations reveal that:
 
 ---
 
-## 📊 Phase 1: Digital Sandbox Simulation
+##  Phase 1: Digital Sandbox Simulation
 
 ### What We've Achieved
 
-✅ **Computational Proof-of-Concept**: Validated that glucose-induced permittivity changes follow predictable Debye relaxation patterns
+ **Computational Proof-of-Concept**: Validated that glucose-induced permittivity changes follow predictable Debye relaxation patterns
 
-✅ **Frequency Identification**: Identified optimal detection frequency range (~10-20 GHz)
+ **Frequency Identification**: Identified optimal detection frequency range (~10-20 GHz)
 
-✅ **Quantifiable Signal**: Demonstrated measurable Δε between normal and diabetic glucose levels
+ **Quantifiable Signal**: Demonstrated measurable Δε between normal and diabetic glucose levels
 
 ### Simulation Results
 
@@ -49,7 +49,7 @@ Our simulations reveal that:
 
 ---
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Technology Stack
 
